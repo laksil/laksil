@@ -1,4 +1,9 @@
-### Hi there 👋
+### Engineering with a sprinkle of art
+## I enjoy:
+- Aerospace
+- Automotive
+- Fluid Mechanics
+- CFD
 
 <!--
 **laksil/laksil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
