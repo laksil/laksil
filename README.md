@@ -1,5 +1,5 @@
-### Engineering with a sprinkle of art
-## I enjoy:
+## Engineering with a sprinkle of art
+### I enjoy:
 - Aerospace
 - Automotive
 - Fluid Mechanics
